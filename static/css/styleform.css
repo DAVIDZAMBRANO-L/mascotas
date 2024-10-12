@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+}
+h1{
+    text-align: center;
+    border: solid black 2px;
+}
+form{
+    border: solid blue 5px;
+    text-align: center;
+}
+button{
+     background-color: blanchedalmond;
+     color: black;
+     font-size: 400 px;
+     padding: 10 px;
+}
